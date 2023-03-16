@@ -7,7 +7,7 @@ export class DirectionService {
   currentData = this.data.asObservable();
 
   constructor() {
-    //constructor
+    //const
   }
 
   updateDirection(item: string) {
